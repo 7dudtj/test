@@ -1,3 +1,5 @@
+# 상장 5일차 이하라 전일 5일 이동평균을 구할수 없는 경우를 위한 Error Handling
+
 import pybithumb
 
 def bull_market(ticker):
